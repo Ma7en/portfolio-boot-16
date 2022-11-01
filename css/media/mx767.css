@@ -1,0 +1,24 @@
+
+@media (max-width: 767px) {
+
+
+
+
+/* start contact */
+.contact form input[type="text"],
+.contact form input[type="email"] {
+    width: 100%;
+}
+
+.contact form .info {
+    justify-content: center;
+}
+
+
+
+
+
+
+
+}
+
